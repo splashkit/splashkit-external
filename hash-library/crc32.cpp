@@ -10,6 +10,7 @@
 #ifndef _MSC_VER
 #if __linux__
 #include <endian.h>
+#elif WINDOWS
 #else
 #include <machine/endian.h>
 #endif
