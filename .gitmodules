@@ -1,6 +1,3 @@
-[submodule "sqlite"]
-	path = sqlite
-	url = https://github.com/splashkit/sqlite
 [submodule "civetweb"]
 	path = civetweb
 	url = https://github.com/splashkit/civetweb
