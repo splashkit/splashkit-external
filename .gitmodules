@@ -1,6 +1,3 @@
 [submodule "civetweb"]
 	path = civetweb
 	url = https://github.com/splashkit/civetweb
-[submodule "serial"]
-	path = serial
-	url = https://github.com/wjwwood/serial.git
