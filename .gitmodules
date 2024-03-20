@@ -26,3 +26,6 @@
 	url = https://github.com/libsdl-org/SDL_image.git
 	branch = release-2.6.x
 	fetchRecurseSubmodules = no
+[submodule "libpng"]
+	path = libpng
+	url = https://github.com/pnggroup/libpng.git
