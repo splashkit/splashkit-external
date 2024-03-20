@@ -1,31 +1,39 @@
 [submodule "civetweb"]
 	path = civetweb
 	url = https://github.com/splashkit/civetweb
+	shallow = yes
 [submodule "serial"]
 	path = serial
 	url = https://github.com/wjwwood/serial.git
+	shallow = yes
 [submodule "SDL"]
 	path = SDL
 	url = https://github.com/libsdl-org/SDL.git
 	branch = release-2.30.x
+	shallow = yes
 [submodule "SDL_mixer"]
 	path = SDL_mixer
 	url = https://github.com/libsdl-org/SDL_mixer.git
 	branch = release-2.8.x
+	shallow = yes
 [submodule "SDL_net"]
 	path = SDL_net
 	url = https://github.com/libsdl-org/SDL_net.git
 	branch = release-2.2.x
+	shallow = yes
 [submodule "SDL_ttf"]
 	path = SDL_ttf
 	url = https://github.com/libsdl-org/SDL_ttf.git
 	branch = release-2.20.x
 	fetchRecurseSubmodules = no
+	shallow = yes
 [submodule "SDL_image"]
 	path = SDL_image
 	url = https://github.com/libsdl-org/SDL_image.git
 	branch = release-2.6.x
 	fetchRecurseSubmodules = no
+	shallow = yes
 [submodule "libpng"]
 	path = libpng
 	url = https://github.com/pnggroup/libpng.git
+	shallow = yes
