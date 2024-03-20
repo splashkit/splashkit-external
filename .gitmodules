@@ -20,7 +20,9 @@
 	path = SDL_ttf
 	url = https://github.com/libsdl-org/SDL_ttf.git
 	branch = release-2.20.x
+	fetchRecurseSubmodules = no
 [submodule "SDL_image"]
 	path = SDL_image
 	url = https://github.com/libsdl-org/SDL_image.git
 	branch = release-2.6.x
+	fetchRecurseSubmodules = no
