@@ -1,3 +1,6 @@
 [submodule "civetweb"]
 	path = civetweb
 	url = https://github.com/splashkit/civetweb
+[submodule "microui"]
+	path = microui
+	url = https://github.com/rxi/microui
