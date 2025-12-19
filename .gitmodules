@@ -4,3 +4,6 @@
 [submodule "microui"]
 	path = microui
 	url = https://github.com/rxi/microui
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = https://github.com/ggml-org/llama.cpp
